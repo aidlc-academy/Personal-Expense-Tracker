@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+*.db
+*.db-journal
+.env
+.env.local
+coverage/
+.DS_Store
+*.log
+server/prisma/migrations/*/
